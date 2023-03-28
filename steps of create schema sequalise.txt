@@ -1,0 +1,5 @@
+steps of add new schema 
+1. write schema hit below command 
+2. npx sequelize-cli migration:generate --name create-[table-name]
+3.
+npx sequelize-cli db:migrate
